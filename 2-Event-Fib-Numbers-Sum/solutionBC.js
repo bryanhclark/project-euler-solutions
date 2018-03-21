@@ -20,4 +20,6 @@ const evenFib = (maxNum) => {
 }
 
 
+
+
 console.log(evenFib(4000000))
